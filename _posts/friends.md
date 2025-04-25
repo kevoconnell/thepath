@@ -1,5 +1,5 @@
 ---
-title: "purpose"
+title: "friendship"
 excerpt: '"Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up" (Ecclesiastes 4:9-12)'
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2025-04-12T00:00:00.000Z"

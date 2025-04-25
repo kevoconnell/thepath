@@ -1,5 +1,5 @@
 ---
-title: "purpose"
+title: "finding my role"
 excerpt: '"I fear not the man who has practiced a thousand kicks once, but I fear the man who has practiced one kick a thousand times" - Bruce Lee'
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2025-04-23T00:00:00.000Z"
