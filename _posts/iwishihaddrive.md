@@ -83,7 +83,7 @@ things im not worried about
 to end this
 
 its 2030. in 2025 I :
-- was just moving into LA and starting a job
+- was just moving into a new city and starting a job
 - just got out of trying to run a business
 - had a good group of friends that I didn't live in the same city with but talked to a lot
 
@@ -94,6 +94,6 @@ in 2030:
 - i have financial stability
 	- i.e, I can afford to fuck off for some extended period of time 
 	- if I had to put a number to this, $1m at minimum, it honestly can be way lower than that though
-- ive lived in LA for 5 years. at this point I really want to do that, if not LA, then some other city 
+- ive lived in a city for 5 years. at this point I really want to do that, if not the city i am currently in, then some other city 
 - i have a very fulfilling social life, I am around those I love all of the time, whether that is friends or family
 - i invest more in my faith in god
