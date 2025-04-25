@@ -39,9 +39,9 @@ export default async function Post(props: Params) {
 }
 
 type Params = {
-  params: Promise<{
+  params: {
     slug: string;
-  }>;
+  };
 };
 
 export async function generateMetadata({
