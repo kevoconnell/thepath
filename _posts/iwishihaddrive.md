@@ -26,7 +26,7 @@ there's 2 main assumptions in that statement
 for me thats just not the case. every job I have been at I have always loved doing what I do. that is obviously a blessing, not everyone can say that
 
 its 2025. in 2020 I was:
-- in my freshman dorm room with a close childhood friend from making music for fun
+- in my freshman dorm room with a close childhood friend from rapping for fun
 - barely knew how to code at a proficient level
 - barely worked out
 - didn't have any good friends outside of said friend
