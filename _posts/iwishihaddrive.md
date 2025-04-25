@@ -1,13 +1,13 @@
 ---
 title: '"i wish I didn''t have drive"'
 excerpt: '"It''s not the load and not the path that breaks men, it''s the mind that has no drive" - David Goggins'
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/iwishihaddrive/cover.jpg"
 date: "2025-04-05T00:00:00.000Z"
 author:
   name: "you know who"
   picture: "/assets/blog/preview/cover.jpg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/iwishihaddrive/cover.jpg"
 ---
 
 "i wish I didn't have drive"

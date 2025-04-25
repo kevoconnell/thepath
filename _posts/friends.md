@@ -1,13 +1,13 @@
 ---
 title: "friendship"
 excerpt: '"Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up" (Ecclesiastes 4:9-12)'
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/friends/friends.jpg"
 date: "2025-04-12T00:00:00.000Z"
 author:
   name: "you know who"
   picture: "/assets/blog/preview/cover.jpg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/friends/friends.jpg"
 ---
 
  “i have a very fulfilling social life, I am around those I love all of the time, whether that is friends or family”

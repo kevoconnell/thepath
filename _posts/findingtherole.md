@@ -1,13 +1,13 @@
 ---
 title: "finding my role"
 excerpt: '"I fear not the man who has practiced a thousand kicks once, but I fear the man who has practiced one kick a thousand times" - Bruce Lee'
-coverImage: "/assets/blog/preview/cover.jpg"
+coverImage: "/assets/blog/findingtherole/findingtherole.png"
 date: "2025-04-23T00:00:00.000Z"
 author:
   name: "you know who"
   picture: "/assets/blog/preview/cover.jpg"
 ogImage:
-  url: "/assets/blog/preview/cover.jpg"
+  url: "/assets/blog/findingtherole/findingtherole.png"
 ---
 
  the past 24 years of my life have all been about proving myself, well, not 24, more like 14, 
