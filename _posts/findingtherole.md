@@ -22,10 +22,9 @@ right now i think this is on hard mode. I do not know anyone, i do not have any 
 
 1.) a mindset shift
 -> going from "im not providing enough value" to "am i providing enough value"
-in other words: I should not be sacrificing my entire life for a job (provided I am not the founder)
 
 2.) accepting that things will not magically happen
--> similar to quitting my job 6 months ago, I can start working on this today, I just need to start somewhere
+-> similar to quitting my job, I can start working on this today, I just need to start somewhere
 
 3.) when I get the urge to switch things up, get used to it
 -> fwiw, I actually think getting used to this will help me during the tough times of my company building

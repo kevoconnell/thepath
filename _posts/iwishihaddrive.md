@@ -67,7 +67,7 @@ I tend to eventually drop off and stop doing xyz thing and switch to something e
 
 taking a look back at the last 6 months - i think its pretty clear to me that:
 
-- i want to settle down in one city, i hope its LA
+- i want to settle down in one city
 - i need to find a social hobby (maybe 2)
 - i need to figure out how to balance out the obsession in a healthy way (maybe i don't need to actually) - to prevent burnout
 
@@ -83,8 +83,8 @@ things im not worried about
 to end this
 
 its 2030. in 2025 I :
-- was just moving into LA and starting a job with Royco
-- just got out of trying to run a business with my brother
+- was just moving into LA and starting a job
+- just got out of trying to run a business
 - had a good group of friends that I didn't live in the same city with but talked to a lot
 
 
