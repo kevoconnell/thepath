@@ -44,21 +44,43 @@ type Params = {
   }>;
 };
 
-export async function generateMetadata(props: Params): Promise<Metadata> {
-  const params = await props.params;
+export async function generateMetadata({
+  params,
+}: {
+  params: { slug: string };
+}): Promise<Metadata> {
   const post = getPostBySlug(params.slug);
 
   if (!post) {
-    return notFound();
+    return {
+      title: "Post Not Found",
+      description: "The requested post could not be found.",
+    };
   }
 
-  const title = `${post.title} | Next.js Blog Example with ${CMS_NAME}`;
-
   return {
-    title,
+    title: post.title,
+    description: post.excerpt,
     openGraph: {
-      title,
-      images: [post.ogImage.url],
+      title: post.title,
+      description: post.excerpt,
+      type: "article",
+      publishedTime: post.date,
+      authors: [post.author.name],
+      images: [
+        {
+          url: post.coverImage,
+          width: 1200,
+          height: 630,
+          alt: post.title,
+        },
+      ],
+    },
+    twitter: {
+      card: "summary_large_image",
+      title: post.title,
+      description: post.excerpt,
+      images: [post.coverImage],
     },
   };
 }
