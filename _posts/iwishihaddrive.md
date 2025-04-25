@@ -1,5 +1,5 @@
 ---
-title: '"i wish I didn't have drive"'
+title: '"i wish I didn''t have drive"'
 excerpt: '"It''s not the load and not the path that breaks men, it''s the mind that has no drive" - David Goggins'
 coverImage: "/assets/blog/preview/cover.jpg"
 date: "2025-04-05T00:00:00.000Z"
